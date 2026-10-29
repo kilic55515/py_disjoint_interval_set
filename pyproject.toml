@@ -1,6 +1,6 @@
 [project]
 name = "py-disjoint-interval-set"
-version = "0.1.0"
+version = "0.1.1"
 description = "Data structure for managing non-overlapping half-open intervals with insert, delete, and overlap query support."
 requires-python = ">=3.10"
 dependencies = []
